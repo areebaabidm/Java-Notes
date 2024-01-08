@@ -17,7 +17,7 @@ The Java notes cover a wide range of topics, including but not limited to:
 
 ## Usage
 
-You can access this GitBook by visiting [[GitBook URL or GitHub Pages link]](https://everything-to-learn.gitbook.io/java/).
+You can access this GitBook by visiting [[Gitbook URL of Java]](https://everything-to-learn.gitbook.io/java/).
 
 To clone the repository locally, use the following command:
 
