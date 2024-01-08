@@ -1,4 +1,3 @@
-# Java-Notes
 # Java Notes GitBook Repository
 
 This repository contains a collection of comprehensive Java notes organized using GitBook.
